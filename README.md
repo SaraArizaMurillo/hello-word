@@ -22,7 +22,7 @@ En la clase EconGrowth
  1 + 1
  \```
 
-##Esta es una nueva sección 
+## Esta es una nueva sección 
 
 
 
